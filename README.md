@@ -2,14 +2,14 @@ This project explores the use of artificial neural networks to approximate compl
 
 Key Features:
 
-Target Function: A two-dimensional nonlinear function with exponential and trigonometric components.
+1. Target Function: A two-dimensional nonlinear function with exponential and trigonometric components.
 
-Model Architectures: Evaluation of contracting, expanding, uniform, and oscillating configurations of neural networks.
+2. Model Architectures: Evaluation of contracting, expanding, uniform, and oscillating configurations of neural networks.
 
-Hyperparameter Optimization: Analysis of optimal neuron counts, training epochs, and training dataset sizes.
+3. Hyperparameter Optimization: Analysis of optimal neuron counts, training epochs, and training dataset sizes.
 
-Graph Generation: Comparison of the original function with neural network predictions, including visualizing their differences.
+4. Graph Generation: Comparison of the original function with neural network predictions, including visualizing their differences.
 
-Applications: This project is ideal for educational purposes, experimentation, and demonstrating the capabilities of neural networks in regression tasks.
+5. Applications: This project is ideal for educational purposes, experimentation, and demonstrating the capabilities of neural networks in regression tasks.
 
 This repository is valuable for researchers, developers, and students seeking to understand neural network design principles for function approximation and result visualization.
